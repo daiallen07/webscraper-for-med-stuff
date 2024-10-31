@@ -2,6 +2,8 @@ https://www.malacards.org/categories/cancer_disease_list
 
 (maybe use golang instead of python)
 https://github.com/gocolly/colly.git
+https://go-colly.org/docs/introduction/start/
+https://go-colly.org/docs/examples/basic/
 
 (python)
 https://scrapy.org/
