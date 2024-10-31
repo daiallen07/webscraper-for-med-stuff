@@ -12,23 +12,22 @@ func main() {
     c := colly.NewCollector()
 
     // Set up a callback for when a visited HTML element is found
-    c.OnHTML("article", func(e *colly.HTMLElement) {
-        title := e.ChildText("h2") // Assume the title is within an <h2> tag
-        link := e.ChildAttr("a", "href") // Assume there's a link in the article
-        fmt.Printf("Title: %s\nLink: %s\n", title, link)
+    c.OnHTML("div.disease", func(e *colly.HTMLElement) {
+        diseaseName := e.ChildText("h2.name") // Adjust the selector based on the actual HTML structure
+        symptoms := e.ChildText("p.symptoms") // Adjust the selector based on the actual HTML structure
+
+        // Print the disease name and symptoms
+        fmt.Printf("Disease: %s\nSymptoms: %s\n\n", diseaseName, symptoms)
     })
 
-    // Set up a callback for errors
+    // Set up error handling
     c.OnError(func(r *colly.Response, err error) {
-        log.Printf("Request failed with response code %d: %s", r.StatusCode, err)
+        log.Printf("Request URL: %s failed with response: %s\n", r.Request.URL, err)
     })
 
-    // Start the scraping process on a given URL
-    err := c.Visit("https://example-blog.com")
+    // Start the scraping process on the target website
+    err := c.Visit("https://example.com/diseases") // Replace with the actual URL
     if err != nil {
-        log.Fatal(err)
+        log.Fatalf("Failed to visit: %s", err)
     }
-
-    // Wait for the collector to finish
-    c.Wait()
 }
