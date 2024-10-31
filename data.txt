@@ -1,0 +1,82 @@
+#clean data and make it usabel
+
+Influenza:	Fever, chills, cough, sore throat, body aches, fatigue
+COVID-19:	Fever, cough, difficulty breathing, fatigue, loss of taste or smell
+Tuberculosis:	Persistent cough, chest pain, weight loss, night sweats
+Chickenpox:	Itchy rash, fever, tiredness, loss of appetite
+Measles:	High fever, cough, runny nose, red eyes, rash
+Hepatitis A:	Fatigue, nausea, abdominal pain, jaundice
+Strep Throat:	Sore throat, fever, swollen lymph nodes, headache
+Lyme Disease:	Fever, headache, fatigue, skin rash (bull's-eye)
+Norovirus Infection:	Nausea, vomiting, diarrhea, stomach pain
+Mumps:	Swollen salivary glands, fever, headache, muscle aches
+Acquired Immunodeficiency Syndrome(AIDS):	Fatigue, weight loss, recurrent infections, fever
+Anthrax:	Fever, cough, chest discomfort, muscle aches
+Aspergillosis:	Cough, chest pain, fever, shortness of breath
+Bacterial Vaginosis:	Vaginal discharge, odor, itching
+Blastomycosis:	Cough, fever, chills, night sweats
+Botulism	Muscle weakness, blurred vision, difficulty swallowing
+Brucellosis	Fever, sweats, malaise, weight loss
+Campylobacter Infection	Diarrhea, fever, stomach cramps
+Chancroid	Painful sores on the genitals
+Chlamydia	Abdominal pain, unusual discharge, burning sensation
+Coccidioidomycosis	Cough, fever, chest pain, fatigue
+Common Cold	Runny nose, sore throat, cough, congestion
+Dengue Fever	High fever, severe headache, pain behind the eyes
+Diphtheria	Sore throat, fever, weakness, swollen glands
+Ebola Virus Disease	Fever, headache, muscle pain, vomiting, bleeding
+E. Coli Infection	Diarrhea (often bloody), abdominal pain, vomiting
+Giardiasis	Diarrhea, gas, stomach cramps, nausea
+Gonorrhea	Painful urination, discharge, sore throat
+Hantavirus Pulmonary Syndrome	Fever, muscle aches, fatigue, cough, shortness of breath
+Histoplasmosis	Cough, chest pain, fever, chills
+Human Papillomavirus (HPV)	Genital warts, abnormal Pap test results
+Influenza-like Illness	Fever, cough, muscle aches, fatigue
+Legionnaires' Disease	Cough, shortness of breath, fever, muscle aches
+Leptospirosis	Fever, chills, muscle aches, jaundice
+Listeriosis	Fever, muscle aches, nausea, diarrhea
+Malaria	Fever, chills, sweats, headache, nausea
+Measles	High fever, cough, runny nose, rash
+Meningitis	Fever, headache, stiff neck, sensitivity to light
+Mononucleosis	Fatigue, sore throat, swollen lymph nodes
+Necrotizing Fasciitis	Severe pain, swelling, fever, red or discolored skin
+Norovirus	Nausea, vomiting, diarrhea, stomach cramps
+Parasitic Infections (General)	Varies by parasite, often includes fatigue, diarrhea
+Pertussis (Whooping Cough)	Severe coughing fits, runny nose, fatigue
+Plague	Fever, chills, swollen lymph nodes, weakness
+Pneumonia (Bacterial)	Cough, fever, chills, difficulty breathing
+Q Fever	High fever, headache, muscle pain
+Rabies	Fever, headache, confusion, paralysis
+Rheumatic Fever	Fever, painful joints, heart murmurs
+Rocky Mountain Spotted Fever	Fever, headache, rash, muscle pain
+Rubella (German Measles)	Rash, fever, swollen lymph nodes, joint pain
+Salmonella Infection	Diarrhea, fever, abdominal cramps
+Scabies	Itchy rash, sores, irritation
+Shigellosis	Diarrhea (often bloody), fever, stomach cramps
+Syphilis	Sores, rash, fever, swollen lymph nodes
+Tetanus	Muscle stiffness, spasms, difficulty swallowing
+Toxic Shock Syndrome	Sudden high fever, rash, low blood pressure, confusion
+Trichomoniasis	Itching, discharge, irritation
+Typhoid Fever	Prolonged fever, weakness, stomach pain, headache
+Varicella (Chickenpox)	Itchy rash, fever, tiredness
+Vibrio Infection	Diarrhea, abdominal cramping, nausea
+West Nile Virus	Fever, headache, body aches, joint pain
+Yellow Fever	Fever, chills, loss of appetite, muscle pain
+Zika Virus	Fever, rash, joint pain, conjunctivitis
+Chikungunya	Fever, joint pain, rash, fatigue
+Cysticercosis	Seizures, headaches, confusion (when cysts form in the brain)
+Dientamoeba Fragilis Infection	Diarrhea, stomach cramps, nausea
+Echinococcosis	Abdominal pain, nausea, vomiting
+Erysipelas	Red, swollen rash, fever, chills
+Filariasis	Swelling of limbs, fever, chills
+Guinea Worm Disease	Blister, pain, fever
+Hives (Urticaria)	Itchy welts, swelling, redness
+Lymphatic Filariasis	Swelling, pain, fever
+Mycoplasma Pneumonia	Cough, fever, fatigue, chest pain
+Onchocerciasis	Itching, skin rash, eye problems
+Paragonimiasis	Cough, chest pain, fever, difficulty breathing
+Schistosomiasis	Abdominal pain, diarrhea, blood in urine
+Staphylococcal Infection	Red, swollen skin, fever, pus-filled lumps
+Toxoplasmosis	Flu-like symptoms, muscle aches, swollen lymph nodes
+Tularemia	Fever, skin ulcers, swollen lymph nodes
+Vibrio Cholerae	Watery diarrhea, vomiting, leg cramps
