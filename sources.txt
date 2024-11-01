@@ -8,3 +8,5 @@ https://go-colly.org/docs/examples/basic/
 (python)
 https://scrapy.org/
 https://docs.scrapy.org/en/2.11/topics/commands.html
+
+https://www.w3schools.com/go/go_function_recursion.php
