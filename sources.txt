@@ -1,4 +1,5 @@
 https://www.malacards.org/categories/cancer_disease_list
+https://www.fathomhq.com/kpi-glossary/staff-to-patient-ratio#:~:text=What%20is%20a%20good%20staff,to%20be%20a%20good%20benchmark.
 
 (maybe use golang instead of python)
 https://github.com/gocolly/colly.git
